@@ -196,7 +196,7 @@ function changeLanguage() {
 
   document.getElementById("hero-title").innerHTML = "<b>Impulsa tu carrera creativa y conéctate con oportunidades en <span class='highlight'>CreatiLink</span></b>";
   document.getElementById("hero-subtitle").textContent = "Una plataforma especializada para diseñadores gráficos, de moda y de interiores para mostrar portfolios, ofrecer servicios y colaborar con clientes que aprecian tu talento.";
-  document.getElementById("hero-btn").textContent = "Regístrate";
+  document.getElementById("hero-btn").textContent = "EMPEZAR";
   
   } else if (lang === "en") {
     // Footer
@@ -296,7 +296,7 @@ function changeLanguage() {
    // Hero
    document.getElementById("hero-title").innerHTML = "<b>Boost your creative career and connect with opportunities at <span class='highlight'>CreatiLink</span></b>";
    document.getElementById("hero-subtitle").textContent = "A specialized platform for graphic, fashion and interior designers to showcase portfolios, offer services and collaborate with clients who appreciate your talent.";
-   document.getElementById("hero-btn").textContent = "Sign up";
+   document.getElementById("hero-btn").textContent = "GET STARTED";
 }}
 
 
