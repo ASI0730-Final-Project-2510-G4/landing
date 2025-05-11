@@ -103,7 +103,7 @@ function changeLanguage() {
     // Footer
     document.getElementById("follow-us-text").textContent = "Síguenos";
     document.getElementById("login-text").textContent = "Iniciar sesión";
-    document.getElementById("start-text").textContent = "Empezar";
+    document.getElementById("start-text").textContent = "Registrate";
 
     // Nav
     document.getElementById("nav-description").textContent = "Descripción";
@@ -202,7 +202,7 @@ function changeLanguage() {
     // Footer
     document.getElementById("follow-us-text").textContent = "Follow us";
     document.getElementById("login-text").textContent = "Log in";
-    document.getElementById("start-text").textContent = "Get Started";
+    document.getElementById("start-text").textContent = "Sign Up";
 
     // Nav
     document.getElementById("nav-description").textContent = "Description";
